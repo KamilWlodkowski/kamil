@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wlodek441
 - 👀 I’m interested in Rubik's cube
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JAVA, Kotlin and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
