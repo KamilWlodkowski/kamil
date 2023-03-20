@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wlodek441
+- 👋 Hi, I’m @KamilW
 - 👀 I’m interested in Rubik's cube
 - 🌱 I’m currently learning JAVA, Kotlin and Python
 - 💞️ I’m looking to collaborate on ...
